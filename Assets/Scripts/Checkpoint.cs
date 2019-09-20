@@ -19,5 +19,6 @@ public class Checkpoint : MonoBehaviour, ISoundSource
     {
         GameObject.FindGameObjectWithTag("board").GetComponent<AudioSource>().Stop();
         _soundSourceController.Play();
+        GetComponent<BoxCollider>().isTrigger = false;
     }
 }
