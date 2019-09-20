@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class Coin : MonoBehaviour, ISoundSource
+public class Checkpoint : MonoBehaviour, ISoundSource
 {
     private SoundSourceController _soundSourceController;
     [SerializeField] private AudioClip sound;
@@ -18,6 +18,5 @@ public class Coin : MonoBehaviour, ISoundSource
     private void OnTriggerEnter(Collider other)
     {
         _soundSourceController.Play();
-        gameObject.SetActive(false);
     }
 }
