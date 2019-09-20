@@ -180,7 +180,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4ba4761e56c9ef489138d54dac4a635, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotation: {x: 1, y: 0, z: 1}
+  rotation: {x: 0, y: 0, z: 1}
 --- !u!23 &20694341
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -485,7 +485,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4ba4761e56c9ef489138d54dac4a635, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotation: {x: 1, y: 0, z: 1}
+  rotation: {x: 0, y: 0, z: 1}
 --- !u!23 &69619978
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -791,7 +791,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4ba4761e56c9ef489138d54dac4a635, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotation: {x: 1, y: 0, z: 1}
+  rotation: {x: 0, y: 0, z: 1}
 --- !u!23 &166800275
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -912,7 +912,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4ba4761e56c9ef489138d54dac4a635, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotation: {x: 1, y: 0, z: 1}
+  rotation: {x: 0, y: 0, z: 1}
 --- !u!23 &244667496
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1216,7 +1216,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4ba4761e56c9ef489138d54dac4a635, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotation: {x: 1, y: 0, z: 1}
+  rotation: {x: 0, y: 0, z: 1}
 --- !u!23 &457373485
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1929,7 +1929,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4ba4761e56c9ef489138d54dac4a635, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotation: {x: 1, y: 0, z: 1}
+  rotation: {x: 0, y: 0, z: 1}
 --- !u!65 &943469613
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2262,7 +2262,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4ba4761e56c9ef489138d54dac4a635, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotation: {x: 1, y: 0, z: 1}
+  rotation: {x: 0, y: 0, z: 1}
 --- !u!23 &1357514660
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -2659,7 +2659,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4ba4761e56c9ef489138d54dac4a635, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotation: {x: 1, y: 0, z: 1}
+  rotation: {x: 0, y: 0, z: 1}
 --- !u!23 &1616057143
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -2887,7 +2887,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4ba4761e56c9ef489138d54dac4a635, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotation: {x: 1, y: 0, z: 1}
+  rotation: {x: 0, y: 0, z: 1}
 --- !u!23 &1804764023
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -3133,7 +3133,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4ba4761e56c9ef489138d54dac4a635, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotation: {x: 1, y: 0, z: 1}
+  rotation: {x: 0, y: 0, z: 1}
 --- !u!23 &1856473202
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -3394,7 +3394,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4ba4761e56c9ef489138d54dac4a635, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotation: {x: 1, y: 0, z: 1}
+  rotation: {x: 0, y: 0, z: 1}
 --- !u!23 &1957045715
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -3591,7 +3591,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4ba4761e56c9ef489138d54dac4a635, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotation: {x: 1, y: 0, z: 1}
+  rotation: {x: 0, y: 0, z: 1}
 --- !u!23 &2042585182
 MeshRenderer:
   m_ObjectHideFlags: 0
