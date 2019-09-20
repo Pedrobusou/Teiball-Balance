@@ -1,11 +1,7 @@
-﻿using System;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class PlayerInput : MonoBehaviour
 {
-    [Range(0, 300)]
-    public float rotationSpeed;
-
     private int maxDegrees = 15;
     private int errorMargin = 5;
     private float verticalMove;
