@@ -9,6 +9,8 @@ A small game where you have to get the ball to the center of the maze by rotatin
 - Playable with WASD, arrowKeys and joystick
 - [Try now!](https://pedrobusou.github.io/Teiball-Balance/Demo/)
 
+![alt text](Images/img1.JPG)
+
 # Unity base project
 
 References:
