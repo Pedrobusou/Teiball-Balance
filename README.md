@@ -6,7 +6,7 @@ A small game where you have to get the ball to the center of the maze by rotatin
 
 #### Features:
 - Humble Object Pattern (interfaces, controller classes)
-- Playable with WASD, arroyKeys and joystick
+- Playable with WASD, arrowKeys and joystick
 - [Try now!](https://pedrobusou.github.io/Teiball-Balance/Demo/)
 
 # Unity base project
