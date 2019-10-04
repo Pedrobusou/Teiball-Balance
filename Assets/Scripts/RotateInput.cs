@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class RotateInput : MonoBehaviour
 {
@@ -9,16 +10,11 @@ public class RotateInput : MonoBehaviour
     private float verticalPos;
     private float horizontalPos;
 
-    void Update()
+    public void OnMove(InputAction.CallbackContext ctx)
     {
-        verticalMove = Input.GetAxis("Vertical");
-        horizontalMove = Input.GetAxis("Horizontal");
+        verticalMove = ctx.ReadValue<Vector2>().y;
+        horizontalMove = ctx.ReadValue<Vector2>().x;
 
-        if (verticalMove != 0 || horizontalMove != 0) Move();
-    }
-
-    void Move()
-    {
         if (verticalMove > 0 && Mathf.FloorToInt(transform.eulerAngles.x) >= maxDegrees && Mathf.FloorToInt(transform.eulerAngles.x) < maxDegrees + errorMargin)
         {
             verticalMove = 0;
