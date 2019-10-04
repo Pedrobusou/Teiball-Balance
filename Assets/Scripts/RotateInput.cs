@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class PlayerInput : MonoBehaviour
+public class RotateInput : MonoBehaviour
 {
     private int maxDegrees = 15;
     private int errorMargin = 5;
