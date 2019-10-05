@@ -2737,8 +2737,8 @@ GameObject:
   - component: {fileID: 1824016082}
   - component: {fileID: 1824016081}
   - component: {fileID: 1824016080}
-  - component: {fileID: 1824016085}
   - component: {fileID: 1824016086}
+  - component: {fileID: 1824016085}
   m_Layer: 0
   m_Name: board
   m_TagString: board
